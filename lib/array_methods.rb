@@ -16,7 +16,7 @@ x= array[0]
     if array[index] > x
         x= array[index]
     end
-  } 
+  }
     x
 end
 
